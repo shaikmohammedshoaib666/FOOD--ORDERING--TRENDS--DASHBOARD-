@@ -1,0 +1,501 @@
+Order ID,Date,Time,Day,Dish Name,Category,Quantity,Price,Customer ID,City,Delivery Time (min),Rating,Repeat Order,Payment Method,Revenue
+1000,2025-05-17,01:58 PM,Saturday,Clam Chowder,Comfort Food,1,12.75,C048,Houston,26,3.8,Yes,Cash,12.75
+1001,2025-06-22,12:32 PM,Sunday,BBQ Ribs,Fast Food,2,18.5,C067,Dallas,53,4.9,No,Cash,37.0
+1002,2025-05-06,03:41 PM,Tuesday,Caesar Salad,Healthy,1,11.75,C041,New York,28,3.6,No,Wallet,11.75
+1003,2025-03-08,09:09 PM,Saturday,BBQ Ribs,Fast Food,3,18.5,C007,San Antonio,24,3.6,No,Wallet,55.5
+1004,2025-06-30,04:15 PM,Monday,Cobb Salad,Healthy,1,11.0,C050,San Jose,21,3.0,Yes,Card,11.0
+1005,2025-04-08,07:51 PM,Tuesday,BBQ Ribs,Fast Food,1,18.5,C099,Phoenix,20,4.3,Yes,Card,18.5
+1006,2025-05-22,09:33 PM,Thursday,Chicken Wings,Fast Food,3,14.0,C045,Houston,24,4.9,Yes,Wallet,42.0
+1007,2025-04-23,10:49 AM,Wednesday,Clam Chowder,Comfort Food,3,12.75,C092,Houston,44,3.6,Yes,Cash,38.25
+1008,2025-01-20,06:02 PM,Monday,Mac and Cheese,Comfort Food,2,10.5,C072,San Jose,60,4.6,Yes,Wallet,21.0
+1009,2025-02-07,01:04 PM,Friday,Cobb Salad,Healthy,2,11.0,C061,Los Angeles,29,4.1,No,Wallet,22.0
+1010,2025-05-02,10:17 AM,Friday,Clam Chowder,Comfort Food,3,12.75,C017,San Antonio,32,3.6,Yes,Wallet,38.25
+1011,2025-04-18,01:59 PM,Friday,Grilled Chicken Sandwich,Fast Food,3,13.8,C054,Los Angeles,32,3.7,Yes,Card,41.4
+1012,2025-01-27,09:46 PM,Monday,Cheeseburger,Fast Food,3,12.25,C098,Philadelphia,34,4.7,No,Wallet,36.75
+1013,2025-02-13,08:35 PM,Thursday,Cheeseburger,Fast Food,1,12.25,C014,San Antonio,58,3.0,No,Card,12.25
+1014,2025-05-10,05:35 PM,Saturday,Mac and Cheese,Comfort Food,2,10.5,C021,Dallas,49,4.9,No,Wallet,21.0
+1015,2025-05-29,12:24 PM,Thursday,Cheeseburger,Fast Food,3,12.25,C079,San Diego,30,4.6,Yes,Card,36.75
+1016,2025-05-31,02:44 PM,Saturday,Caesar Salad,Healthy,3,11.75,C093,Houston,51,4.8,Yes,Wallet,35.25
+1017,2025-03-08,07:13 PM,Saturday,Avocado Toast,Healthy,3,10.25,C094,Chicago,33,3.0,Yes,Cash,30.75
+1018,2025-01-09,10:19 AM,Thursday,Chicken Wings,Fast Food,3,14.0,C053,San Antonio,46,3.1,Yes,Card,42.0
+1019,2025-02-25,07:52 PM,Tuesday,Mac and Cheese,Comfort Food,1,10.5,C003,Los Angeles,56,3.9,No,Wallet,10.5
+1020,2025-02-04,06:44 PM,Tuesday,Cheeseburger,Fast Food,1,12.25,C077,San Jose,33,4.2,No,Cash,12.25
+1021,2025-01-11,11:05 AM,Saturday,BBQ Ribs,Fast Food,1,18.5,C016,San Jose,57,3.6,Yes,Cash,18.5
+1022,2025-03-15,11:15 AM,Saturday,Buffalo Chicken Wrap,Fast Food,2,13.9,C019,Phoenix,54,4.8,No,Card,27.8
+1023,2025-04-03,01:24 PM,Thursday,Chicken Wings,Fast Food,2,14.0,C054,Dallas,25,4.6,No,Wallet,28.0
+1024,2025-02-16,11:01 AM,Sunday,Chicken Wings,Fast Food,1,14.0,C058,Chicago,27,3.6,Yes,Card,14.0
+1025,2025-04-16,04:53 PM,Wednesday,Cobb Salad,Healthy,1,11.0,C014,Los Angeles,52,3.8,Yes,Wallet,11.0
+1026,2025-01-04,05:23 PM,Saturday,Cheeseburger,Fast Food,3,12.25,C055,Chicago,54,4.8,Yes,Wallet,36.75
+1027,2025-06-21,09:55 PM,Saturday,Avocado Toast,Healthy,1,10.25,C094,Chicago,44,4.0,Yes,Card,10.25
+1028,2025-04-13,11:23 AM,Sunday,Clam Chowder,Comfort Food,2,12.75,C014,Dallas,50,5.0,Yes,Cash,25.5
+1029,2025-02-08,01:11 PM,Saturday,Avocado Toast,Healthy,3,10.25,C021,San Diego,30,3.6,Yes,Wallet,30.75
+1030,2025-01-11,05:23 PM,Saturday,Cheeseburger,Fast Food,1,12.25,C021,San Diego,47,3.8,No,Cash,12.25
+1031,2025-06-23,02:12 PM,Monday,Caesar Salad,Healthy,1,11.75,C097,Chicago,28,4.4,Yes,Wallet,11.75
+1032,2025-03-25,12:50 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C047,Dallas,43,4.3,No,Cash,13.9
+1033,2025-02-10,01:22 PM,Monday,Chicken Wings,Fast Food,2,14.0,C076,Houston,44,4.8,Yes,Cash,28.0
+1034,2025-05-04,10:22 AM,Sunday,Mac and Cheese,Comfort Food,2,10.5,C065,San Diego,51,3.2,Yes,Wallet,21.0
+1035,2025-06-10,07:21 PM,Tuesday,Cobb Salad,Healthy,1,11.0,C013,Phoenix,40,4.8,No,Card,11.0
+1036,2025-03-11,11:26 AM,Tuesday,Clam Chowder,Comfort Food,3,12.75,C067,Chicago,25,4.5,Yes,Card,38.25
+1037,2025-02-14,02:29 PM,Friday,Cobb Salad,Healthy,2,11.0,C077,Dallas,38,3.8,Yes,Card,22.0
+1038,2025-01-09,08:18 PM,Thursday,Grilled Chicken Sandwich,Fast Food,2,13.8,C069,San Diego,34,4.0,Yes,Cash,27.6
+1039,2025-04-12,07:24 PM,Saturday,Cobb Salad,Healthy,2,11.0,C082,New York,44,3.8,Yes,Cash,22.0
+1040,2025-04-12,02:15 PM,Saturday,Caesar Salad,Healthy,3,11.75,C077,San Diego,35,4.7,Yes,Cash,35.25
+1041,2025-01-28,12:05 PM,Tuesday,Clam Chowder,Comfort Food,2,12.75,C041,Dallas,55,4.3,Yes,Card,25.5
+1042,2025-01-19,03:24 PM,Sunday,Cheeseburger,Fast Food,2,12.25,C036,Houston,35,4.7,Yes,Cash,24.5
+1043,2025-04-27,03:15 PM,Sunday,Caesar Salad,Healthy,2,11.75,C011,Houston,51,4.8,Yes,Cash,23.5
+1044,2025-05-05,12:20 PM,Monday,Clam Chowder,Comfort Food,2,12.75,C039,Dallas,52,3.1,Yes,Card,25.5
+1045,2025-01-06,01:34 PM,Monday,Chicken Wings,Fast Food,3,14.0,C035,Dallas,52,4.6,Yes,Card,42.0
+1046,2025-01-05,02:02 PM,Sunday,Caesar Salad,Healthy,3,11.75,C005,Houston,34,4.8,No,Card,35.25
+1047,2025-02-13,01:03 PM,Thursday,Cheeseburger,Fast Food,3,12.25,C081,Phoenix,45,4.7,No,Cash,36.75
+1048,2025-04-06,10:44 AM,Sunday,BBQ Ribs,Fast Food,2,18.5,C001,San Jose,55,3.6,Yes,Cash,37.0
+1049,2025-04-20,06:33 PM,Sunday,Buffalo Chicken Wrap,Fast Food,2,13.9,C025,Phoenix,52,3.6,No,Cash,27.8
+1050,2025-02-23,04:39 PM,Sunday,BBQ Ribs,Fast Food,3,18.5,C081,San Diego,52,4.1,Yes,Wallet,55.5
+1051,2025-04-22,06:34 PM,Tuesday,Cheeseburger,Fast Food,1,12.25,C084,New York,41,4.0,No,Cash,12.25
+1052,2025-04-25,01:52 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C008,San Jose,26,4.7,No,Wallet,18.5
+1053,2025-05-21,01:21 PM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C049,Philadelphia,39,3.8,Yes,Wallet,31.5
+1054,2025-04-25,03:44 PM,Friday,Mac and Cheese,Comfort Food,1,10.5,C086,Houston,43,3.3,Yes,Card,10.5
+1055,2025-01-20,09:01 PM,Monday,Cobb Salad,Healthy,2,11.0,C074,Los Angeles,43,4.1,No,Cash,22.0
+1056,2025-05-22,11:06 AM,Thursday,BBQ Ribs,Fast Food,2,18.5,C029,San Jose,32,3.3,Yes,Wallet,37.0
+1057,2025-01-16,07:37 PM,Thursday,Buffalo Chicken Wrap,Fast Food,2,13.9,C003,San Jose,56,3.9,Yes,Wallet,27.8
+1058,2025-02-19,01:37 PM,Wednesday,Chicken Wings,Fast Food,2,14.0,C042,Los Angeles,49,4.2,Yes,Wallet,28.0
+1059,2025-04-07,07:01 PM,Monday,BBQ Ribs,Fast Food,2,18.5,C086,Chicago,54,4.3,Yes,Card,37.0
+1060,2025-06-02,03:47 PM,Monday,Avocado Toast,Healthy,1,10.25,C076,Chicago,41,4.3,No,Card,10.25
+1061,2025-01-30,02:49 PM,Thursday,Mac and Cheese,Comfort Food,2,10.5,C085,San Antonio,47,4.6,Yes,Card,21.0
+1062,2025-03-21,05:43 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C031,New York,26,3.2,Yes,Cash,18.5
+1063,2025-01-14,11:08 AM,Tuesday,Cheeseburger,Fast Food,2,12.25,C093,Houston,57,4.6,No,Cash,24.5
+1064,2025-05-21,09:31 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C057,San Jose,47,5.0,Yes,Card,10.5
+1065,2025-02-18,04:29 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,2,13.9,C026,Houston,34,3.6,Yes,Wallet,27.8
+1066,2025-04-12,03:35 PM,Saturday,Grilled Chicken Sandwich,Fast Food,3,13.8,C065,Chicago,57,4.3,No,Wallet,41.4
+1067,2025-03-21,07:15 PM,Friday,Cobb Salad,Healthy,3,11.0,C005,Philadelphia,33,3.6,Yes,Card,33.0
+1068,2025-04-25,04:59 PM,Friday,Grilled Chicken Sandwich,Fast Food,3,13.8,C074,Phoenix,37,3.3,No,Cash,41.4
+1069,2025-02-24,06:04 PM,Monday,Cobb Salad,Healthy,1,11.0,C045,Houston,46,4.1,Yes,Cash,11.0
+1070,2025-06-05,06:38 PM,Thursday,Avocado Toast,Healthy,3,10.25,C037,Los Angeles,21,3.7,Yes,Cash,30.75
+1071,2025-01-01,02:35 PM,Wednesday,Cheeseburger,Fast Food,2,12.25,C078,Houston,49,3.3,No,Cash,24.5
+1072,2025-05-01,04:26 PM,Thursday,Mac and Cheese,Comfort Food,1,10.5,C100,Phoenix,54,4.5,Yes,Card,10.5
+1073,2025-05-08,07:38 PM,Thursday,Mac and Cheese,Comfort Food,1,10.5,C052,New York,36,3.2,Yes,Cash,10.5
+1074,2025-01-10,07:00 PM,Friday,Avocado Toast,Healthy,1,10.25,C038,San Jose,44,3.0,No,Cash,10.25
+1075,2025-04-05,11:57 AM,Saturday,Cobb Salad,Healthy,2,11.0,C087,Phoenix,26,4.6,No,Card,22.0
+1076,2025-06-07,05:38 PM,Saturday,Cobb Salad,Healthy,2,11.0,C045,San Antonio,59,4.2,Yes,Cash,22.0
+1077,2025-05-21,12:52 PM,Wednesday,Clam Chowder,Comfort Food,3,12.75,C041,San Diego,26,3.7,Yes,Card,38.25
+1078,2025-01-16,07:09 PM,Thursday,Grilled Chicken Sandwich,Fast Food,2,13.8,C006,Chicago,59,4.7,Yes,Cash,27.6
+1079,2025-05-23,11:09 AM,Friday,Buffalo Chicken Wrap,Fast Food,1,13.9,C084,Dallas,41,4.0,Yes,Cash,13.9
+1080,2025-01-04,07:29 PM,Saturday,Cobb Salad,Healthy,2,11.0,C018,San Diego,28,3.0,No,Card,22.0
+1081,2025-05-05,07:11 PM,Monday,Clam Chowder,Comfort Food,1,12.75,C036,San Antonio,29,3.0,No,Card,12.75
+1082,2025-02-21,08:22 PM,Friday,Cheeseburger,Fast Food,3,12.25,C056,San Antonio,48,4.2,Yes,Cash,36.75
+1083,2025-05-07,03:08 PM,Wednesday,Clam Chowder,Comfort Food,1,12.75,C056,San Jose,36,3.3,Yes,Cash,12.75
+1084,2025-05-27,12:49 PM,Tuesday,Mac and Cheese,Comfort Food,1,10.5,C031,New York,27,4.0,Yes,Wallet,10.5
+1085,2025-06-20,12:50 PM,Friday,Chicken Wings,Fast Food,2,14.0,C050,San Jose,39,4.5,No,Wallet,28.0
+1086,2025-02-06,02:43 PM,Thursday,Chicken Wings,Fast Food,2,14.0,C024,New York,53,3.4,Yes,Wallet,28.0
+1087,2025-05-09,01:20 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C096,Philadelphia,39,3.1,Yes,Cash,18.5
+1088,2025-01-15,05:55 PM,Wednesday,Grilled Chicken Sandwich,Fast Food,3,13.8,C081,San Antonio,39,4.7,Yes,Card,41.4
+1089,2025-04-15,08:14 PM,Tuesday,Clam Chowder,Comfort Food,2,12.75,C027,Los Angeles,24,3.8,Yes,Cash,25.5
+1090,2025-01-20,01:44 PM,Monday,Clam Chowder,Comfort Food,1,12.75,C096,San Diego,37,3.1,No,Wallet,12.75
+1091,2025-04-24,06:00 PM,Thursday,BBQ Ribs,Fast Food,3,18.5,C035,Phoenix,53,3.8,No,Wallet,55.5
+1092,2025-01-04,05:21 PM,Saturday,Chicken Wings,Fast Food,3,14.0,C090,San Jose,57,3.7,Yes,Card,42.0
+1093,2025-05-15,10:03 AM,Thursday,Avocado Toast,Healthy,2,10.25,C014,San Antonio,56,4.2,Yes,Cash,20.5
+1094,2025-02-05,10:14 AM,Wednesday,Avocado Toast,Healthy,1,10.25,C081,Philadelphia,23,3.5,Yes,Cash,10.25
+1095,2025-02-11,03:07 PM,Tuesday,Caesar Salad,Healthy,3,11.75,C055,New York,21,4.8,Yes,Card,35.25
+1096,2025-04-11,06:50 PM,Friday,Clam Chowder,Comfort Food,3,12.75,C055,Phoenix,45,3.1,No,Card,38.25
+1097,2025-06-17,11:55 AM,Tuesday,Clam Chowder,Comfort Food,1,12.75,C022,San Antonio,48,3.9,Yes,Wallet,12.75
+1098,2025-03-06,09:14 PM,Thursday,Cheeseburger,Fast Food,1,12.25,C065,Phoenix,59,3.8,No,Wallet,12.25
+1099,2025-03-09,10:22 AM,Sunday,Cobb Salad,Healthy,3,11.0,C032,San Antonio,52,3.4,No,Wallet,33.0
+1100,2025-03-02,02:53 PM,Sunday,Buffalo Chicken Wrap,Fast Food,3,13.9,C055,Los Angeles,52,3.4,Yes,Cash,41.7
+1101,2025-04-03,01:41 PM,Thursday,Chicken Wings,Fast Food,2,14.0,C099,San Diego,38,4.4,Yes,Card,28.0
+1102,2025-03-02,08:35 PM,Sunday,BBQ Ribs,Fast Food,2,18.5,C078,San Diego,56,4.2,Yes,Card,37.0
+1103,2025-05-18,08:49 PM,Sunday,Grilled Chicken Sandwich,Fast Food,1,13.8,C062,Chicago,42,4.3,Yes,Wallet,13.8
+1104,2025-01-16,09:37 PM,Thursday,Mac and Cheese,Comfort Food,1,10.5,C081,New York,27,3.6,Yes,Card,10.5
+1105,2025-03-06,11:31 AM,Thursday,Cheeseburger,Fast Food,3,12.25,C078,Los Angeles,29,4.9,Yes,Cash,36.75
+1106,2025-01-17,06:08 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C074,San Diego,29,4.8,Yes,Card,18.5
+1107,2025-01-21,06:01 PM,Tuesday,Caesar Salad,Healthy,3,11.75,C038,San Diego,32,4.2,Yes,Wallet,35.25
+1108,2025-01-24,05:42 PM,Friday,Avocado Toast,Healthy,3,10.25,C071,San Diego,23,3.5,Yes,Cash,30.75
+1109,2025-05-03,06:35 PM,Saturday,Chicken Wings,Fast Food,2,14.0,C073,San Antonio,29,4.4,Yes,Wallet,28.0
+1110,2025-04-10,01:12 PM,Thursday,Caesar Salad,Healthy,2,11.75,C070,Houston,45,4.6,No,Card,23.5
+1111,2025-01-16,02:46 PM,Thursday,Buffalo Chicken Wrap,Fast Food,2,13.9,C048,Dallas,28,3.3,Yes,Card,27.8
+1112,2025-01-17,06:13 PM,Friday,Mac and Cheese,Comfort Food,2,10.5,C065,Los Angeles,29,3.8,No,Cash,21.0
+1113,2025-02-10,04:56 PM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C062,Dallas,54,4.2,No,Cash,41.4
+1114,2025-01-01,12:03 PM,Wednesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C017,Phoenix,56,4.0,Yes,Cash,13.9
+1115,2025-06-25,09:24 PM,Wednesday,Chicken Wings,Fast Food,2,14.0,C035,San Antonio,45,3.5,Yes,Card,28.0
+1116,2025-05-08,02:01 PM,Thursday,Avocado Toast,Healthy,1,10.25,C087,San Jose,52,4.1,Yes,Card,10.25
+1117,2025-03-22,10:07 AM,Saturday,Cobb Salad,Healthy,2,11.0,C049,San Antonio,40,3.1,Yes,Wallet,22.0
+1118,2025-02-05,02:27 PM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C036,San Antonio,21,3.3,Yes,Cash,31.5
+1119,2025-04-09,08:14 PM,Wednesday,Grilled Chicken Sandwich,Fast Food,3,13.8,C055,Los Angeles,54,3.1,No,Card,41.4
+1120,2025-05-09,12:58 PM,Friday,Clam Chowder,Comfort Food,3,12.75,C059,Los Angeles,40,4.9,Yes,Wallet,38.25
+1121,2025-04-21,11:24 AM,Monday,Mac and Cheese,Comfort Food,2,10.5,C095,San Antonio,35,3.3,Yes,Wallet,21.0
+1122,2025-04-15,07:08 PM,Tuesday,Grilled Chicken Sandwich,Fast Food,3,13.8,C039,Chicago,26,3.7,No,Cash,41.4
+1123,2025-02-18,02:25 PM,Tuesday,Avocado Toast,Healthy,1,10.25,C051,Los Angeles,56,3.6,No,Card,10.25
+1124,2025-01-06,04:14 PM,Monday,Mac and Cheese,Comfort Food,3,10.5,C068,San Diego,33,3.8,Yes,Card,31.5
+1125,2025-03-10,04:26 PM,Monday,Chicken Wings,Fast Food,1,14.0,C020,San Jose,45,3.3,Yes,Card,14.0
+1126,2025-04-19,02:23 PM,Saturday,Chicken Wings,Fast Food,1,14.0,C032,San Antonio,20,4.6,No,Wallet,14.0
+1127,2025-05-23,05:35 PM,Friday,Avocado Toast,Healthy,2,10.25,C096,San Diego,41,4.0,Yes,Cash,20.5
+1128,2025-01-06,07:10 PM,Monday,Cobb Salad,Healthy,1,11.0,C038,Dallas,53,3.9,No,Wallet,11.0
+1129,2025-01-04,08:46 PM,Saturday,Cheeseburger,Fast Food,3,12.25,C046,Los Angeles,41,3.5,Yes,Wallet,36.75
+1130,2025-05-11,08:08 PM,Sunday,Cheeseburger,Fast Food,2,12.25,C099,New York,34,3.4,Yes,Wallet,24.5
+1131,2025-01-11,05:24 PM,Saturday,Caesar Salad,Healthy,2,11.75,C038,San Diego,58,4.5,Yes,Card,23.5
+1132,2025-06-18,11:10 AM,Wednesday,Chicken Wings,Fast Food,1,14.0,C015,Dallas,53,3.9,Yes,Card,14.0
+1133,2025-05-19,04:17 PM,Monday,Chicken Wings,Fast Food,3,14.0,C067,Houston,39,4.7,Yes,Wallet,42.0
+1134,2025-04-03,01:33 PM,Thursday,Grilled Chicken Sandwich,Fast Food,3,13.8,C097,Chicago,26,4.0,No,Wallet,41.4
+1135,2025-05-19,09:44 PM,Monday,BBQ Ribs,Fast Food,2,18.5,C061,Philadelphia,25,3.6,Yes,Wallet,37.0
+1136,2025-02-06,05:00 PM,Thursday,Buffalo Chicken Wrap,Fast Food,1,13.9,C069,San Jose,31,4.9,Yes,Cash,13.9
+1137,2025-04-18,04:37 PM,Friday,Avocado Toast,Healthy,3,10.25,C058,San Antonio,27,3.3,Yes,Card,30.75
+1138,2025-05-29,01:05 PM,Thursday,Grilled Chicken Sandwich,Fast Food,3,13.8,C021,Phoenix,27,4.2,Yes,Wallet,41.4
+1139,2025-05-23,02:24 PM,Friday,Buffalo Chicken Wrap,Fast Food,2,13.9,C004,San Antonio,21,3.4,Yes,Card,27.8
+1140,2025-03-10,07:53 PM,Monday,Clam Chowder,Comfort Food,1,12.75,C084,Phoenix,49,3.6,Yes,Cash,12.75
+1141,2025-04-18,01:33 PM,Friday,Chicken Wings,Fast Food,3,14.0,C071,San Diego,27,3.8,Yes,Cash,42.0
+1142,2025-04-18,01:00 PM,Friday,Chicken Wings,Fast Food,1,14.0,C030,Philadelphia,36,3.2,Yes,Cash,14.0
+1143,2025-01-20,03:53 PM,Monday,Caesar Salad,Healthy,1,11.75,C082,Dallas,20,4.6,No,Card,11.75
+1144,2025-06-26,03:40 PM,Thursday,Cheeseburger,Fast Food,2,12.25,C011,San Jose,54,3.4,No,Wallet,24.5
+1145,2025-02-17,03:43 PM,Monday,Clam Chowder,Comfort Food,1,12.75,C069,Chicago,36,4.9,Yes,Card,12.75
+1146,2025-06-26,03:51 PM,Thursday,Avocado Toast,Healthy,2,10.25,C002,Houston,57,4.2,No,Cash,20.5
+1147,2025-04-05,09:09 PM,Saturday,Avocado Toast,Healthy,1,10.25,C076,New York,21,4.2,No,Cash,10.25
+1148,2025-02-11,05:00 PM,Tuesday,Cobb Salad,Healthy,1,11.0,C079,San Diego,45,4.2,No,Wallet,11.0
+1149,2025-06-17,09:05 PM,Tuesday,Mac and Cheese,Comfort Food,3,10.5,C026,Houston,50,3.5,Yes,Card,31.5
+1150,2025-04-17,09:20 PM,Thursday,Mac and Cheese,Comfort Food,2,10.5,C025,San Jose,48,3.1,Yes,Wallet,21.0
+1151,2025-05-22,08:30 PM,Thursday,BBQ Ribs,Fast Food,1,18.5,C072,Los Angeles,58,3.7,Yes,Wallet,18.5
+1152,2025-02-17,05:12 PM,Monday,Chicken Wings,Fast Food,2,14.0,C009,San Diego,31,4.5,Yes,Wallet,28.0
+1153,2025-04-03,10:25 AM,Thursday,Cheeseburger,Fast Food,3,12.25,C051,San Diego,32,4.1,No,Cash,36.75
+1154,2025-04-20,08:31 PM,Sunday,Chicken Wings,Fast Food,2,14.0,C011,Chicago,47,3.3,No,Wallet,28.0
+1155,2025-03-10,08:10 PM,Monday,Cobb Salad,Healthy,2,11.0,C061,Chicago,36,4.9,Yes,Card,22.0
+1156,2025-03-15,08:52 PM,Saturday,Cheeseburger,Fast Food,1,12.25,C083,Philadelphia,49,4.0,Yes,Card,12.25
+1157,2025-03-16,10:12 AM,Sunday,Avocado Toast,Healthy,1,10.25,C075,Dallas,40,3.9,Yes,Card,10.25
+1158,2025-04-02,03:46 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C025,New York,29,3.4,No,Wallet,10.5
+1159,2025-01-31,05:32 PM,Friday,Chicken Wings,Fast Food,1,14.0,C085,Chicago,37,3.5,Yes,Card,14.0
+1160,2025-02-06,02:44 PM,Thursday,Chicken Wings,Fast Food,1,14.0,C077,Chicago,43,3.4,No,Card,14.0
+1161,2025-04-04,02:51 PM,Friday,Cheeseburger,Fast Food,1,12.25,C076,New York,48,4.0,No,Wallet,12.25
+1162,2025-02-24,10:42 AM,Monday,Avocado Toast,Healthy,2,10.25,C081,Phoenix,60,4.2,Yes,Cash,20.5
+1163,2025-02-03,02:55 PM,Monday,Caesar Salad,Healthy,2,11.75,C066,Phoenix,24,4.2,Yes,Wallet,23.5
+1164,2025-04-05,10:16 AM,Saturday,Caesar Salad,Healthy,2,11.75,C088,Dallas,35,4.7,Yes,Wallet,23.5
+1165,2025-05-18,12:40 PM,Sunday,Avocado Toast,Healthy,2,10.25,C061,San Jose,40,4.9,Yes,Card,20.5
+1166,2025-02-20,01:49 PM,Thursday,Cheeseburger,Fast Food,2,12.25,C039,New York,41,4.2,Yes,Card,24.5
+1167,2025-03-29,03:31 PM,Saturday,Cobb Salad,Healthy,1,11.0,C071,Houston,48,3.1,Yes,Card,11.0
+1168,2025-05-20,12:41 PM,Tuesday,Cheeseburger,Fast Food,2,12.25,C072,Phoenix,34,3.3,No,Cash,24.5
+1169,2025-03-23,07:46 PM,Sunday,Caesar Salad,Healthy,2,11.75,C036,Houston,48,3.1,Yes,Cash,23.5
+1170,2025-06-24,05:50 PM,Tuesday,Grilled Chicken Sandwich,Fast Food,1,13.8,C100,Dallas,41,4.1,No,Cash,13.8
+1171,2025-04-05,05:21 PM,Saturday,Cobb Salad,Healthy,3,11.0,C061,Dallas,21,4.6,Yes,Cash,33.0
+1172,2025-05-09,12:35 PM,Friday,Grilled Chicken Sandwich,Fast Food,3,13.8,C070,Phoenix,46,3.4,Yes,Cash,41.4
+1173,2025-05-01,04:30 PM,Thursday,Buffalo Chicken Wrap,Fast Food,1,13.9,C038,Los Angeles,52,3.2,Yes,Card,13.9
+1174,2025-03-26,11:33 AM,Wednesday,Chicken Wings,Fast Food,2,14.0,C073,Phoenix,42,4.1,Yes,Cash,28.0
+1175,2025-06-09,05:53 PM,Monday,Cheeseburger,Fast Food,2,12.25,C026,San Jose,36,3.1,No,Wallet,24.5
+1176,2025-03-29,01:23 PM,Saturday,Cobb Salad,Healthy,2,11.0,C080,San Jose,35,3.3,No,Cash,22.0
+1177,2025-02-24,02:18 PM,Monday,Mac and Cheese,Comfort Food,1,10.5,C085,Chicago,60,3.1,Yes,Wallet,10.5
+1178,2025-01-02,05:10 PM,Thursday,Buffalo Chicken Wrap,Fast Food,1,13.9,C075,New York,56,3.6,Yes,Card,13.9
+1179,2025-03-01,03:30 PM,Saturday,Cobb Salad,Healthy,3,11.0,C030,Los Angeles,57,4.7,Yes,Wallet,33.0
+1180,2025-01-12,10:02 AM,Sunday,Mac and Cheese,Comfort Food,2,10.5,C055,Philadelphia,42,3.3,Yes,Wallet,21.0
+1181,2025-01-04,12:58 PM,Saturday,Chicken Wings,Fast Food,1,14.0,C091,Houston,52,3.9,Yes,Wallet,14.0
+1182,2025-04-05,01:14 PM,Saturday,Grilled Chicken Sandwich,Fast Food,3,13.8,C096,San Diego,51,4.6,Yes,Wallet,41.4
+1183,2025-01-24,06:19 PM,Friday,Cobb Salad,Healthy,3,11.0,C098,San Diego,24,3.3,Yes,Card,33.0
+1184,2025-04-04,01:51 PM,Friday,Grilled Chicken Sandwich,Fast Food,2,13.8,C012,Houston,52,5.0,Yes,Wallet,27.6
+1185,2025-03-22,04:14 PM,Saturday,Buffalo Chicken Wrap,Fast Food,3,13.9,C010,Dallas,48,3.2,Yes,Wallet,41.7
+1186,2025-06-28,09:12 PM,Saturday,Caesar Salad,Healthy,3,11.75,C050,Los Angeles,38,4.6,Yes,Wallet,35.25
+1187,2025-01-05,11:25 AM,Sunday,BBQ Ribs,Fast Food,2,18.5,C086,Dallas,42,4.1,No,Wallet,37.0
+1188,2025-01-13,09:43 PM,Monday,Mac and Cheese,Comfort Food,2,10.5,C067,Philadelphia,42,3.8,Yes,Cash,21.0
+1189,2025-04-24,11:10 AM,Thursday,Grilled Chicken Sandwich,Fast Food,1,13.8,C022,San Antonio,45,3.1,Yes,Cash,13.8
+1190,2025-02-10,08:30 PM,Monday,Chicken Wings,Fast Food,2,14.0,C099,Philadelphia,49,3.2,Yes,Cash,28.0
+1191,2025-04-09,01:45 PM,Wednesday,Cheeseburger,Fast Food,1,12.25,C063,Dallas,37,4.7,Yes,Wallet,12.25
+1192,2025-04-22,02:09 PM,Tuesday,BBQ Ribs,Fast Food,2,18.5,C011,San Jose,24,4.7,Yes,Card,37.0
+1193,2025-06-21,09:00 PM,Saturday,Clam Chowder,Comfort Food,1,12.75,C038,San Diego,45,4.9,Yes,Card,12.75
+1194,2025-05-17,10:39 AM,Saturday,Avocado Toast,Healthy,3,10.25,C066,Houston,49,3.2,Yes,Wallet,30.75
+1195,2025-01-13,11:56 AM,Monday,Chicken Wings,Fast Food,2,14.0,C040,Phoenix,30,4.3,Yes,Wallet,28.0
+1196,2025-05-15,09:50 PM,Thursday,Avocado Toast,Healthy,2,10.25,C063,San Antonio,48,4.7,Yes,Card,20.5
+1197,2025-05-23,05:29 PM,Friday,Grilled Chicken Sandwich,Fast Food,3,13.8,C008,San Diego,56,4.7,No,Card,41.4
+1198,2025-04-05,09:11 PM,Saturday,Avocado Toast,Healthy,1,10.25,C008,Los Angeles,51,4.7,Yes,Cash,10.25
+1199,2025-01-20,02:53 PM,Monday,Cobb Salad,Healthy,3,11.0,C054,Houston,34,3.6,No,Cash,33.0
+1200,2025-02-22,03:28 PM,Saturday,Grilled Chicken Sandwich,Fast Food,2,13.8,C067,New York,57,4.2,Yes,Cash,27.6
+1201,2025-06-25,07:33 PM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C025,Dallas,24,4.0,Yes,Wallet,31.5
+1202,2025-05-27,08:48 PM,Tuesday,Cheeseburger,Fast Food,3,12.25,C023,San Jose,50,4.1,Yes,Wallet,36.75
+1203,2025-04-01,05:59 PM,Tuesday,Avocado Toast,Healthy,3,10.25,C099,San Jose,49,3.3,Yes,Cash,30.75
+1204,2025-05-10,12:26 PM,Saturday,BBQ Ribs,Fast Food,2,18.5,C063,Los Angeles,42,3.4,Yes,Card,37.0
+1205,2025-06-22,12:56 PM,Sunday,Cheeseburger,Fast Food,1,12.25,C027,San Jose,36,3.3,No,Cash,12.25
+1206,2025-02-12,02:56 PM,Wednesday,Cobb Salad,Healthy,3,11.0,C069,Phoenix,47,4.0,No,Wallet,33.0
+1207,2025-03-20,05:51 PM,Thursday,Cobb Salad,Healthy,2,11.0,C069,Phoenix,38,4.1,Yes,Wallet,22.0
+1208,2025-01-03,08:26 PM,Friday,Cobb Salad,Healthy,3,11.0,C070,Phoenix,42,3.7,Yes,Card,33.0
+1209,2025-02-06,11:33 AM,Thursday,Grilled Chicken Sandwich,Fast Food,1,13.8,C075,Philadelphia,40,3.6,Yes,Cash,13.8
+1210,2025-05-12,10:44 AM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C019,Philadelphia,58,4.5,No,Card,41.4
+1211,2025-04-12,02:17 PM,Saturday,BBQ Ribs,Fast Food,1,18.5,C055,Los Angeles,46,4.4,No,Cash,18.5
+1212,2025-06-25,03:43 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C089,Chicago,55,4.1,Yes,Cash,10.5
+1213,2025-06-24,12:30 PM,Tuesday,Clam Chowder,Comfort Food,1,12.75,C084,Houston,43,3.2,No,Card,12.75
+1214,2025-04-06,10:36 AM,Sunday,Grilled Chicken Sandwich,Fast Food,3,13.8,C002,Philadelphia,21,3.3,Yes,Wallet,41.4
+1215,2025-01-05,05:45 PM,Sunday,Cobb Salad,Healthy,1,11.0,C061,Philadelphia,43,3.8,No,Wallet,11.0
+1216,2025-01-15,10:24 AM,Wednesday,Caesar Salad,Healthy,2,11.75,C091,New York,46,3.4,Yes,Cash,23.5
+1217,2025-06-25,04:23 PM,Wednesday,Caesar Salad,Healthy,3,11.75,C021,Chicago,26,4.2,Yes,Cash,35.25
+1218,2025-06-01,10:27 AM,Sunday,Cobb Salad,Healthy,2,11.0,C020,San Antonio,20,4.5,No,Card,22.0
+1219,2025-06-12,09:44 PM,Thursday,Avocado Toast,Healthy,3,10.25,C092,Philadelphia,44,4.8,Yes,Cash,30.75
+1220,2025-01-19,03:24 PM,Sunday,Cheeseburger,Fast Food,2,12.25,C054,San Jose,37,4.7,No,Card,24.5
+1221,2025-05-06,05:22 PM,Tuesday,Mac and Cheese,Comfort Food,3,10.5,C004,San Jose,43,3.9,Yes,Card,31.5
+1222,2025-01-09,12:01 PM,Thursday,Avocado Toast,Healthy,2,10.25,C065,Chicago,50,3.3,Yes,Cash,20.5
+1223,2025-05-26,04:23 PM,Monday,Buffalo Chicken Wrap,Fast Food,1,13.9,C038,San Diego,32,3.6,No,Cash,13.9
+1224,2025-04-28,11:20 AM,Monday,Cobb Salad,Healthy,2,11.0,C047,Dallas,54,3.8,Yes,Cash,22.0
+1225,2025-05-10,06:43 PM,Saturday,Buffalo Chicken Wrap,Fast Food,3,13.9,C027,Dallas,51,4.9,Yes,Cash,41.7
+1226,2025-03-23,01:26 PM,Sunday,Cobb Salad,Healthy,1,11.0,C095,Phoenix,56,4.8,Yes,Wallet,11.0
+1227,2025-04-14,12:54 PM,Monday,Clam Chowder,Comfort Food,3,12.75,C056,San Jose,20,4.1,Yes,Wallet,38.25
+1228,2025-01-24,08:13 PM,Friday,Buffalo Chicken Wrap,Fast Food,2,13.9,C028,San Antonio,20,4.3,Yes,Wallet,27.8
+1229,2025-02-05,12:16 PM,Wednesday,Cobb Salad,Healthy,1,11.0,C008,Los Angeles,27,4.5,Yes,Cash,11.0
+1230,2025-03-13,04:26 PM,Thursday,Chicken Wings,Fast Food,3,14.0,C085,Chicago,39,3.0,Yes,Card,42.0
+1231,2025-01-04,12:46 PM,Saturday,Chicken Wings,Fast Food,2,14.0,C006,Houston,55,4.3,No,Wallet,28.0
+1232,2025-01-01,02:20 PM,Wednesday,Avocado Toast,Healthy,2,10.25,C074,Phoenix,57,4.5,No,Cash,20.5
+1233,2025-04-03,04:10 PM,Thursday,Buffalo Chicken Wrap,Fast Food,1,13.9,C072,San Antonio,60,3.6,Yes,Card,13.9
+1234,2025-03-16,07:08 PM,Sunday,Caesar Salad,Healthy,2,11.75,C040,New York,49,4.8,Yes,Card,23.5
+1235,2025-02-22,09:52 PM,Saturday,Mac and Cheese,Comfort Food,2,10.5,C031,Los Angeles,48,3.4,Yes,Wallet,21.0
+1236,2025-01-30,08:18 PM,Thursday,Caesar Salad,Healthy,1,11.75,C098,Phoenix,60,4.1,Yes,Cash,11.75
+1237,2025-03-06,11:28 AM,Thursday,Cheeseburger,Fast Food,2,12.25,C055,Houston,54,3.2,No,Card,24.5
+1238,2025-06-18,04:00 PM,Wednesday,Avocado Toast,Healthy,3,10.25,C076,Chicago,56,3.6,Yes,Wallet,30.75
+1239,2025-05-16,11:27 AM,Friday,BBQ Ribs,Fast Food,1,18.5,C093,Chicago,21,4.7,Yes,Wallet,18.5
+1240,2025-03-08,04:36 PM,Saturday,Clam Chowder,Comfort Food,3,12.75,C003,Philadelphia,40,3.5,Yes,Card,38.25
+1241,2025-01-26,06:08 PM,Sunday,Cheeseburger,Fast Food,2,12.25,C033,San Diego,55,4.5,Yes,Cash,24.5
+1242,2025-03-27,07:06 PM,Thursday,Cobb Salad,Healthy,1,11.0,C043,San Jose,47,3.3,No,Cash,11.0
+1243,2025-01-04,07:37 PM,Saturday,Grilled Chicken Sandwich,Fast Food,2,13.8,C014,Philadelphia,53,3.9,Yes,Card,27.6
+1244,2025-01-20,09:11 PM,Monday,Chicken Wings,Fast Food,1,14.0,C044,San Jose,54,3.2,Yes,Wallet,14.0
+1245,2025-05-20,05:12 PM,Tuesday,Clam Chowder,Comfort Food,2,12.75,C051,Phoenix,44,4.7,Yes,Cash,25.5
+1246,2025-02-03,05:04 PM,Monday,Cobb Salad,Healthy,3,11.0,C018,Philadelphia,22,4.6,Yes,Card,33.0
+1247,2025-06-07,05:25 PM,Saturday,Caesar Salad,Healthy,2,11.75,C026,Dallas,56,4.2,No,Cash,23.5
+1248,2025-01-17,11:43 AM,Friday,Avocado Toast,Healthy,2,10.25,C042,Houston,46,4.5,No,Wallet,20.5
+1249,2025-03-23,11:09 AM,Sunday,Grilled Chicken Sandwich,Fast Food,3,13.8,C059,Houston,41,4.5,Yes,Cash,41.4
+1250,2025-04-16,07:08 PM,Wednesday,Caesar Salad,Healthy,2,11.75,C018,San Jose,38,4.3,Yes,Wallet,23.5
+1251,2025-01-31,09:04 PM,Friday,Cobb Salad,Healthy,2,11.0,C029,Houston,36,4.0,Yes,Cash,22.0
+1252,2025-03-27,01:26 PM,Thursday,Cheeseburger,Fast Food,3,12.25,C078,Philadelphia,30,5.0,Yes,Card,36.75
+1253,2025-04-20,05:50 PM,Sunday,Avocado Toast,Healthy,1,10.25,C027,San Jose,24,4.3,Yes,Wallet,10.25
+1254,2025-04-26,12:05 PM,Saturday,Cheeseburger,Fast Food,1,12.25,C088,San Jose,33,3.1,Yes,Wallet,12.25
+1255,2025-01-31,01:49 PM,Friday,Cobb Salad,Healthy,1,11.0,C084,Dallas,26,4.3,Yes,Wallet,11.0
+1256,2025-02-08,03:41 PM,Saturday,Caesar Salad,Healthy,1,11.75,C094,Chicago,28,4.4,Yes,Card,11.75
+1257,2025-05-29,02:57 PM,Thursday,Cheeseburger,Fast Food,3,12.25,C021,Phoenix,56,4.7,Yes,Card,36.75
+1258,2025-01-20,04:16 PM,Monday,Mac and Cheese,Comfort Food,1,10.5,C061,Los Angeles,53,3.4,No,Cash,10.5
+1259,2025-04-17,06:32 PM,Thursday,Grilled Chicken Sandwich,Fast Food,3,13.8,C017,Chicago,29,3.9,No,Cash,41.4
+1260,2025-04-06,08:59 PM,Sunday,Clam Chowder,Comfort Food,2,12.75,C071,San Antonio,39,3.9,Yes,Card,25.5
+1261,2025-03-28,12:05 PM,Friday,Avocado Toast,Healthy,1,10.25,C096,Dallas,46,4.1,No,Cash,10.25
+1262,2025-01-12,03:16 PM,Sunday,Grilled Chicken Sandwich,Fast Food,3,13.8,C042,San Jose,49,4.4,Yes,Wallet,41.4
+1263,2025-04-18,09:05 PM,Friday,Grilled Chicken Sandwich,Fast Food,3,13.8,C018,San Antonio,28,5.0,No,Cash,41.4
+1264,2025-01-27,04:08 PM,Monday,Cheeseburger,Fast Food,3,12.25,C062,San Antonio,29,4.3,Yes,Cash,36.75
+1265,2025-02-15,07:23 PM,Saturday,Avocado Toast,Healthy,3,10.25,C100,Chicago,37,4.7,Yes,Cash,30.75
+1266,2025-01-14,09:37 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,3,13.9,C087,New York,59,4.5,No,Cash,41.7
+1267,2025-02-20,02:27 PM,Thursday,Clam Chowder,Comfort Food,1,12.75,C087,San Diego,51,3.3,No,Cash,12.75
+1268,2025-04-01,08:34 PM,Tuesday,Mac and Cheese,Comfort Food,2,10.5,C050,Los Angeles,27,4.6,Yes,Wallet,21.0
+1269,2025-06-20,05:28 PM,Friday,Cheeseburger,Fast Food,2,12.25,C039,San Antonio,32,4.0,Yes,Card,24.5
+1270,2025-02-26,08:41 PM,Wednesday,BBQ Ribs,Fast Food,2,18.5,C071,Philadelphia,27,4.9,Yes,Wallet,37.0
+1271,2025-05-18,04:49 PM,Sunday,Mac and Cheese,Comfort Food,2,10.5,C017,San Antonio,60,4.5,Yes,Wallet,21.0
+1272,2025-05-09,05:34 PM,Friday,Buffalo Chicken Wrap,Fast Food,1,13.9,C058,San Jose,36,4.9,No,Wallet,13.9
+1273,2025-05-08,02:37 PM,Thursday,Cobb Salad,Healthy,3,11.0,C097,Los Angeles,38,3.9,Yes,Cash,33.0
+1274,2025-04-23,02:01 PM,Wednesday,BBQ Ribs,Fast Food,2,18.5,C097,San Diego,33,3.2,Yes,Card,37.0
+1275,2025-03-19,07:00 PM,Wednesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C077,Houston,45,3.6,Yes,Wallet,13.9
+1276,2025-06-16,01:08 PM,Monday,Cobb Salad,Healthy,1,11.0,C087,Phoenix,45,3.7,No,Cash,11.0
+1277,2025-02-04,04:07 PM,Tuesday,BBQ Ribs,Fast Food,2,18.5,C008,San Jose,21,4.3,Yes,Wallet,37.0
+1278,2025-05-21,12:07 PM,Wednesday,Caesar Salad,Healthy,2,11.75,C043,San Antonio,22,4.9,No,Card,23.5
+1279,2025-06-10,12:58 PM,Tuesday,Caesar Salad,Healthy,1,11.75,C025,Phoenix,60,4.2,Yes,Wallet,11.75
+1280,2025-04-02,03:11 PM,Wednesday,Grilled Chicken Sandwich,Fast Food,2,13.8,C069,Philadelphia,26,3.2,Yes,Wallet,27.6
+1281,2025-05-18,06:31 PM,Sunday,Mac and Cheese,Comfort Food,2,10.5,C023,Phoenix,42,3.2,Yes,Wallet,21.0
+1282,2025-06-02,02:39 PM,Monday,Avocado Toast,Healthy,3,10.25,C091,Los Angeles,40,3.1,No,Card,30.75
+1283,2025-02-21,05:46 PM,Friday,Buffalo Chicken Wrap,Fast Food,2,13.9,C081,Los Angeles,28,4.3,Yes,Card,27.8
+1284,2025-05-13,08:04 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C016,Los Angeles,59,3.7,No,Card,13.9
+1285,2025-01-14,09:20 PM,Tuesday,BBQ Ribs,Fast Food,2,18.5,C099,Los Angeles,48,4.9,No,Cash,37.0
+1286,2025-02-05,07:39 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C090,San Jose,54,3.9,No,Card,10.5
+1287,2025-02-15,06:11 PM,Saturday,Cheeseburger,Fast Food,2,12.25,C027,Philadelphia,36,3.9,Yes,Wallet,24.5
+1288,2025-04-05,11:04 AM,Saturday,Chicken Wings,Fast Food,2,14.0,C058,Chicago,22,3.8,Yes,Card,28.0
+1289,2025-03-30,09:59 PM,Sunday,Mac and Cheese,Comfort Food,1,10.5,C093,Philadelphia,32,3.6,Yes,Wallet,10.5
+1290,2025-01-20,11:57 AM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C090,Chicago,53,4.8,Yes,Wallet,41.4
+1291,2025-01-15,10:05 AM,Wednesday,Cobb Salad,Healthy,2,11.0,C053,Dallas,53,4.4,Yes,Wallet,22.0
+1292,2025-01-17,04:09 PM,Friday,Buffalo Chicken Wrap,Fast Food,2,13.9,C030,Los Angeles,46,3.9,No,Wallet,27.8
+1293,2025-02-26,02:12 PM,Wednesday,Avocado Toast,Healthy,3,10.25,C007,San Jose,31,3.5,Yes,Card,30.75
+1294,2025-03-12,08:47 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C045,Philadelphia,56,3.2,No,Wallet,10.5
+1295,2025-04-10,01:36 PM,Thursday,Caesar Salad,Healthy,1,11.75,C043,San Diego,25,4.8,Yes,Cash,11.75
+1296,2025-03-26,09:57 PM,Wednesday,Avocado Toast,Healthy,3,10.25,C072,Los Angeles,36,3.4,Yes,Cash,30.75
+1297,2025-03-22,06:34 PM,Saturday,BBQ Ribs,Fast Food,1,18.5,C038,San Diego,56,3.3,Yes,Wallet,18.5
+1298,2025-05-23,02:11 PM,Friday,Clam Chowder,Comfort Food,3,12.75,C046,Los Angeles,53,4.0,Yes,Card,38.25
+1299,2025-04-26,05:43 PM,Saturday,Buffalo Chicken Wrap,Fast Food,3,13.9,C008,San Jose,33,4.0,Yes,Card,41.7
+1300,2025-01-18,10:34 AM,Saturday,Cobb Salad,Healthy,3,11.0,C081,New York,39,3.1,No,Cash,33.0
+1301,2025-01-15,09:57 PM,Wednesday,Mac and Cheese,Comfort Food,1,10.5,C077,Chicago,37,3.5,Yes,Card,10.5
+1302,2025-06-01,04:14 PM,Sunday,Chicken Wings,Fast Food,1,14.0,C035,San Antonio,33,4.1,Yes,Wallet,14.0
+1303,2025-01-16,10:14 AM,Thursday,Avocado Toast,Healthy,3,10.25,C048,San Jose,47,3.5,Yes,Wallet,30.75
+1304,2025-03-11,07:39 PM,Tuesday,Clam Chowder,Comfort Food,2,12.75,C058,Los Angeles,29,4.1,No,Cash,25.5
+1305,2025-05-29,06:49 PM,Thursday,Avocado Toast,Healthy,2,10.25,C021,Chicago,48,3.6,Yes,Cash,20.5
+1306,2025-06-20,03:11 PM,Friday,Caesar Salad,Healthy,1,11.75,C072,Phoenix,59,3.8,No,Wallet,11.75
+1307,2025-04-17,04:14 PM,Thursday,Mac and Cheese,Comfort Food,3,10.5,C092,Houston,34,3.9,No,Card,31.5
+1308,2025-03-18,06:04 PM,Tuesday,Mac and Cheese,Comfort Food,2,10.5,C032,Phoenix,23,4.8,Yes,Card,21.0
+1309,2025-04-21,07:52 PM,Monday,Buffalo Chicken Wrap,Fast Food,1,13.9,C058,Philadelphia,23,3.6,Yes,Card,13.9
+1310,2025-02-28,02:55 PM,Friday,Cobb Salad,Healthy,1,11.0,C079,San Diego,30,3.6,Yes,Wallet,11.0
+1311,2025-05-14,09:31 PM,Wednesday,Cobb Salad,Healthy,3,11.0,C042,San Jose,26,4.1,No,Cash,33.0
+1312,2025-01-03,01:27 PM,Friday,BBQ Ribs,Fast Food,3,18.5,C047,New York,27,4.1,Yes,Card,55.5
+1313,2025-02-17,05:51 PM,Monday,Cobb Salad,Healthy,2,11.0,C001,Los Angeles,23,4.0,Yes,Cash,22.0
+1314,2025-03-08,05:17 PM,Saturday,Buffalo Chicken Wrap,Fast Food,1,13.9,C024,New York,28,4.0,Yes,Wallet,13.9
+1315,2025-03-05,12:14 PM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C028,San Antonio,43,4.3,Yes,Card,31.5
+1316,2025-05-05,10:55 AM,Monday,Buffalo Chicken Wrap,Fast Food,2,13.9,C030,San Jose,41,3.1,Yes,Wallet,27.8
+1317,2025-03-27,08:14 PM,Thursday,Cobb Salad,Healthy,2,11.0,C017,Phoenix,49,4.2,Yes,Wallet,22.0
+1318,2025-02-03,12:47 PM,Monday,Mac and Cheese,Comfort Food,2,10.5,C095,New York,27,4.1,No,Cash,21.0
+1319,2025-04-29,11:39 AM,Tuesday,Avocado Toast,Healthy,2,10.25,C021,Phoenix,45,5.0,Yes,Wallet,20.5
+1320,2025-06-19,05:57 PM,Thursday,Grilled Chicken Sandwich,Fast Food,1,13.8,C058,New York,45,3.2,Yes,Cash,13.8
+1321,2025-02-18,11:18 AM,Tuesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C066,San Jose,26,4.7,Yes,Card,13.9
+1322,2025-02-19,10:37 AM,Wednesday,Chicken Wings,Fast Food,1,14.0,C066,San Diego,36,4.9,Yes,Card,14.0
+1323,2025-04-25,06:27 PM,Friday,Chicken Wings,Fast Food,2,14.0,C057,San Diego,36,4.4,Yes,Cash,28.0
+1324,2025-06-21,11:48 AM,Saturday,Mac and Cheese,Comfort Food,2,10.5,C034,Philadelphia,46,3.4,No,Wallet,21.0
+1325,2025-01-05,03:15 PM,Sunday,Clam Chowder,Comfort Food,3,12.75,C009,San Antonio,39,4.5,Yes,Cash,38.25
+1326,2025-01-29,06:06 PM,Wednesday,Buffalo Chicken Wrap,Fast Food,2,13.9,C059,Philadelphia,47,3.4,No,Wallet,27.8
+1327,2025-04-22,11:59 AM,Tuesday,Cobb Salad,Healthy,1,11.0,C078,Los Angeles,25,4.7,No,Cash,11.0
+1328,2025-03-16,08:02 PM,Sunday,Buffalo Chicken Wrap,Fast Food,2,13.9,C038,New York,34,3.8,Yes,Cash,27.8
+1329,2025-01-05,09:50 PM,Sunday,Chicken Wings,Fast Food,1,14.0,C053,New York,33,4.6,Yes,Wallet,14.0
+1330,2025-03-24,12:26 PM,Monday,Cheeseburger,Fast Food,3,12.25,C041,San Antonio,48,3.1,Yes,Cash,36.75
+1331,2025-01-18,12:39 PM,Saturday,Caesar Salad,Healthy,1,11.75,C074,Los Angeles,28,3.3,Yes,Card,11.75
+1332,2025-05-13,12:20 PM,Tuesday,Grilled Chicken Sandwich,Fast Food,3,13.8,C095,Phoenix,28,4.5,Yes,Wallet,41.4
+1333,2025-01-10,08:11 PM,Friday,Avocado Toast,Healthy,1,10.25,C044,Chicago,39,4.2,Yes,Wallet,10.25
+1334,2025-04-03,11:11 AM,Thursday,Avocado Toast,Healthy,1,10.25,C073,New York,45,4.3,Yes,Wallet,10.25
+1335,2025-03-06,02:53 PM,Thursday,Grilled Chicken Sandwich,Fast Food,1,13.8,C040,Chicago,38,4.6,Yes,Cash,13.8
+1336,2025-03-21,12:56 PM,Friday,Mac and Cheese,Comfort Food,3,10.5,C013,San Antonio,55,3.3,Yes,Wallet,31.5
+1337,2025-04-08,09:32 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C095,New York,33,3.1,Yes,Cash,13.9
+1338,2025-03-02,11:04 AM,Sunday,Grilled Chicken Sandwich,Fast Food,2,13.8,C039,San Antonio,32,4.1,No,Cash,27.6
+1339,2025-06-29,12:47 PM,Sunday,Buffalo Chicken Wrap,Fast Food,1,13.9,C077,San Diego,58,3.7,No,Card,13.9
+1340,2025-03-01,05:42 PM,Saturday,Mac and Cheese,Comfort Food,3,10.5,C084,Los Angeles,31,4.0,Yes,Cash,31.5
+1341,2025-04-18,03:26 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C029,Philadelphia,35,4.4,No,Cash,18.5
+1342,2025-03-13,11:33 AM,Thursday,Clam Chowder,Comfort Food,3,12.75,C077,San Diego,36,3.2,No,Wallet,38.25
+1343,2025-01-15,10:34 AM,Wednesday,Chicken Wings,Fast Food,1,14.0,C068,San Jose,22,4.5,Yes,Cash,14.0
+1344,2025-03-21,08:21 PM,Friday,Buffalo Chicken Wrap,Fast Food,1,13.9,C086,Houston,36,3.7,Yes,Cash,13.9
+1345,2025-01-28,12:26 PM,Tuesday,Chicken Wings,Fast Food,3,14.0,C037,San Jose,47,3.0,Yes,Cash,42.0
+1346,2025-01-25,03:51 PM,Saturday,Chicken Wings,Fast Food,3,14.0,C061,Chicago,25,4.7,Yes,Card,42.0
+1347,2025-02-21,11:07 AM,Friday,Clam Chowder,Comfort Food,3,12.75,C005,San Jose,25,4.7,Yes,Card,38.25
+1348,2025-02-22,08:07 PM,Saturday,BBQ Ribs,Fast Food,1,18.5,C043,Chicago,49,4.8,Yes,Card,18.5
+1349,2025-04-22,12:54 PM,Tuesday,BBQ Ribs,Fast Food,3,18.5,C075,Houston,39,4.1,Yes,Card,55.5
+1350,2025-06-20,01:35 PM,Friday,Chicken Wings,Fast Food,1,14.0,C100,Dallas,28,3.7,Yes,Wallet,14.0
+1351,2025-05-17,11:13 AM,Saturday,Clam Chowder,Comfort Food,1,12.75,C004,San Jose,56,4.3,Yes,Cash,12.75
+1352,2025-05-18,02:52 PM,Sunday,BBQ Ribs,Fast Food,2,18.5,C080,New York,35,4.2,No,Card,37.0
+1353,2025-06-19,08:11 PM,Thursday,Mac and Cheese,Comfort Food,1,10.5,C093,San Diego,38,4.6,No,Wallet,10.5
+1354,2025-06-12,04:53 PM,Thursday,Caesar Salad,Healthy,2,11.75,C070,Chicago,29,3.6,Yes,Wallet,23.5
+1355,2025-01-01,08:52 PM,Wednesday,BBQ Ribs,Fast Food,1,18.5,C040,Philadelphia,31,4.7,Yes,Wallet,18.5
+1356,2025-03-03,11:57 AM,Monday,Buffalo Chicken Wrap,Fast Food,2,13.9,C041,Dallas,58,3.3,No,Cash,27.8
+1357,2025-03-03,12:28 PM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C098,Dallas,45,4.0,Yes,Cash,41.4
+1358,2025-04-04,10:01 AM,Friday,Chicken Wings,Fast Food,1,14.0,C060,Los Angeles,59,3.3,Yes,Card,14.0
+1359,2025-05-27,08:37 PM,Tuesday,Cobb Salad,Healthy,1,11.0,C087,Chicago,43,4.6,No,Cash,11.0
+1360,2025-01-20,01:39 PM,Monday,Cheeseburger,Fast Food,2,12.25,C029,Philadelphia,44,4.1,Yes,Wallet,24.5
+1361,2025-03-23,02:10 PM,Sunday,Mac and Cheese,Comfort Food,1,10.5,C081,San Antonio,30,4.2,Yes,Card,10.5
+1362,2025-01-28,11:41 AM,Tuesday,Cobb Salad,Healthy,3,11.0,C074,Philadelphia,51,3.6,No,Wallet,33.0
+1363,2025-05-25,07:38 PM,Sunday,Caesar Salad,Healthy,3,11.75,C012,Los Angeles,59,4.7,Yes,Card,35.25
+1364,2025-04-13,03:13 PM,Sunday,Grilled Chicken Sandwich,Fast Food,2,13.8,C060,San Antonio,38,4.2,Yes,Card,27.6
+1365,2025-03-12,06:46 PM,Wednesday,Chicken Wings,Fast Food,2,14.0,C098,Dallas,27,4.3,Yes,Cash,28.0
+1366,2025-05-31,11:21 AM,Saturday,Cobb Salad,Healthy,1,11.0,C054,San Diego,38,3.1,Yes,Cash,11.0
+1367,2025-04-09,10:27 AM,Wednesday,Caesar Salad,Healthy,3,11.75,C071,Houston,24,3.9,Yes,Cash,35.25
+1368,2025-01-30,03:37 PM,Thursday,Grilled Chicken Sandwich,Fast Food,1,13.8,C078,San Diego,57,3.8,Yes,Card,13.8
+1369,2025-01-21,02:24 PM,Tuesday,Caesar Salad,Healthy,2,11.75,C088,Philadelphia,31,4.4,No,Card,23.5
+1370,2025-02-19,02:20 PM,Wednesday,Cheeseburger,Fast Food,1,12.25,C091,Houston,60,4.6,No,Card,12.25
+1371,2025-06-12,09:06 PM,Thursday,Avocado Toast,Healthy,2,10.25,C076,Houston,28,3.0,No,Wallet,20.5
+1372,2025-04-15,05:32 PM,Tuesday,Avocado Toast,Healthy,1,10.25,C084,San Diego,34,3.6,No,Wallet,10.25
+1373,2025-02-20,10:54 AM,Thursday,BBQ Ribs,Fast Food,1,18.5,C074,San Antonio,57,3.4,Yes,Card,18.5
+1374,2025-01-13,03:06 PM,Monday,Clam Chowder,Comfort Food,2,12.75,C098,Phoenix,30,3.0,Yes,Wallet,25.5
+1375,2025-02-17,06:01 PM,Monday,BBQ Ribs,Fast Food,1,18.5,C087,Chicago,51,4.2,Yes,Wallet,18.5
+1376,2025-05-26,03:59 PM,Monday,Caesar Salad,Healthy,3,11.75,C016,Dallas,42,3.5,No,Wallet,35.25
+1377,2025-04-17,06:51 PM,Thursday,Caesar Salad,Healthy,3,11.75,C018,New York,44,3.7,Yes,Cash,35.25
+1378,2025-05-19,06:21 PM,Monday,Caesar Salad,Healthy,2,11.75,C079,Phoenix,26,4.3,No,Card,23.5
+1379,2025-04-11,05:37 PM,Friday,Chicken Wings,Fast Food,1,14.0,C044,San Antonio,59,4.5,Yes,Cash,14.0
+1380,2025-03-01,02:48 PM,Saturday,Clam Chowder,Comfort Food,3,12.75,C003,San Jose,21,3.3,Yes,Wallet,38.25
+1381,2025-03-13,09:53 PM,Thursday,Buffalo Chicken Wrap,Fast Food,2,13.9,C039,Phoenix,58,3.0,Yes,Card,27.8
+1382,2025-05-09,03:41 PM,Friday,Grilled Chicken Sandwich,Fast Food,2,13.8,C085,New York,25,4.4,Yes,Card,27.6
+1383,2025-03-05,07:08 PM,Wednesday,Chicken Wings,Fast Food,2,14.0,C067,Houston,30,3.6,Yes,Card,28.0
+1384,2025-05-24,09:36 PM,Saturday,BBQ Ribs,Fast Food,2,18.5,C034,Philadelphia,48,5.0,No,Card,37.0
+1385,2025-01-23,11:25 AM,Thursday,Chicken Wings,Fast Food,3,14.0,C034,New York,47,3.3,Yes,Cash,42.0
+1386,2025-01-21,12:52 PM,Tuesday,Mac and Cheese,Comfort Food,2,10.5,C029,Philadelphia,53,3.3,No,Wallet,21.0
+1387,2025-02-10,08:59 PM,Monday,Clam Chowder,Comfort Food,2,12.75,C084,Chicago,23,3.1,Yes,Cash,25.5
+1388,2025-01-26,08:40 PM,Sunday,Cheeseburger,Fast Food,2,12.25,C073,Phoenix,40,3.3,No,Card,24.5
+1389,2025-02-04,05:03 PM,Tuesday,Caesar Salad,Healthy,1,11.75,C054,Philadelphia,46,4.7,Yes,Cash,11.75
+1390,2025-01-31,02:39 PM,Friday,Grilled Chicken Sandwich,Fast Food,2,13.8,C025,San Jose,56,3.1,No,Wallet,27.6
+1391,2025-03-01,02:21 PM,Saturday,Caesar Salad,Healthy,3,11.75,C003,Dallas,57,3.1,Yes,Card,35.25
+1392,2025-03-03,02:33 PM,Monday,Chicken Wings,Fast Food,2,14.0,C010,Los Angeles,34,4.5,Yes,Wallet,28.0
+1393,2025-04-07,01:05 PM,Monday,Caesar Salad,Healthy,3,11.75,C054,Dallas,42,4.9,No,Wallet,35.25
+1394,2025-03-22,08:33 PM,Saturday,Clam Chowder,Comfort Food,2,12.75,C064,Houston,26,4.4,No,Cash,25.5
+1395,2025-05-09,07:35 PM,Friday,Clam Chowder,Comfort Food,1,12.75,C050,Philadelphia,27,4.1,Yes,Wallet,12.75
+1396,2025-03-23,03:56 PM,Sunday,Caesar Salad,Healthy,2,11.75,C081,Chicago,44,3.4,No,Wallet,23.5
+1397,2025-02-06,04:12 PM,Thursday,Avocado Toast,Healthy,2,10.25,C089,San Diego,52,4.8,Yes,Card,20.5
+1398,2025-01-12,04:21 PM,Sunday,Caesar Salad,Healthy,1,11.75,C030,Phoenix,40,3.8,No,Cash,11.75
+1399,2025-04-01,09:00 PM,Tuesday,Cheeseburger,Fast Food,2,12.25,C058,Chicago,46,4.7,Yes,Cash,24.5
+1400,2025-01-30,03:39 PM,Thursday,Mac and Cheese,Comfort Food,2,10.5,C097,Dallas,37,3.8,Yes,Wallet,21.0
+1401,2025-02-27,05:02 PM,Thursday,Clam Chowder,Comfort Food,1,12.75,C059,San Diego,52,4.2,Yes,Wallet,12.75
+1402,2025-05-01,06:28 PM,Thursday,Buffalo Chicken Wrap,Fast Food,3,13.9,C023,San Jose,44,3.9,No,Cash,41.7
+1403,2025-05-01,05:42 PM,Thursday,Chicken Wings,Fast Food,3,14.0,C020,New York,56,4.0,No,Wallet,42.0
+1404,2025-05-27,09:46 PM,Tuesday,Mac and Cheese,Comfort Food,3,10.5,C007,Philadelphia,33,5.0,Yes,Cash,31.5
+1405,2025-03-23,11:56 AM,Sunday,Mac and Cheese,Comfort Food,1,10.5,C086,San Jose,22,4.5,Yes,Cash,10.5
+1406,2025-01-20,01:20 PM,Monday,Cobb Salad,Healthy,2,11.0,C028,San Jose,24,4.8,No,Cash,22.0
+1407,2025-06-11,01:58 PM,Wednesday,BBQ Ribs,Fast Food,3,18.5,C046,San Antonio,50,4.8,Yes,Cash,55.5
+1408,2025-01-10,05:38 PM,Friday,Grilled Chicken Sandwich,Fast Food,1,13.8,C019,Phoenix,57,3.2,Yes,Card,13.8
+1409,2025-06-20,08:46 PM,Friday,Mac and Cheese,Comfort Food,1,10.5,C094,San Diego,37,4.6,Yes,Card,10.5
+1410,2025-02-05,11:33 AM,Wednesday,Grilled Chicken Sandwich,Fast Food,1,13.8,C028,Los Angeles,25,4.4,Yes,Card,13.8
+1411,2025-02-27,08:36 PM,Thursday,BBQ Ribs,Fast Food,3,18.5,C033,Dallas,50,4.0,Yes,Cash,55.5
+1412,2025-02-02,09:12 PM,Sunday,Cheeseburger,Fast Food,1,12.25,C009,Dallas,55,4.5,Yes,Wallet,12.25
+1413,2025-05-19,04:05 PM,Monday,Buffalo Chicken Wrap,Fast Food,3,13.9,C088,New York,55,4.1,No,Cash,41.7
+1414,2025-02-01,03:04 PM,Saturday,Cobb Salad,Healthy,2,11.0,C021,New York,48,3.6,No,Wallet,22.0
+1415,2025-01-21,11:13 AM,Tuesday,Grilled Chicken Sandwich,Fast Food,1,13.8,C035,Chicago,43,4.3,Yes,Card,13.8
+1416,2025-04-26,10:57 AM,Saturday,Grilled Chicken Sandwich,Fast Food,3,13.8,C012,Phoenix,29,3.8,No,Card,41.4
+1417,2025-03-17,02:27 PM,Monday,Cheeseburger,Fast Food,3,12.25,C026,San Jose,20,4.5,Yes,Cash,36.75
+1418,2025-02-15,10:12 AM,Saturday,BBQ Ribs,Fast Food,3,18.5,C002,New York,28,3.2,No,Wallet,55.5
+1419,2025-03-06,08:51 PM,Thursday,Clam Chowder,Comfort Food,3,12.75,C090,San Diego,59,3.4,No,Cash,38.25
+1420,2025-05-30,02:40 PM,Friday,Caesar Salad,Healthy,1,11.75,C040,San Diego,24,3.1,Yes,Card,11.75
+1421,2025-01-17,04:54 PM,Friday,Mac and Cheese,Comfort Food,2,10.5,C030,San Antonio,36,3.7,Yes,Wallet,21.0
+1422,2025-04-30,04:58 PM,Wednesday,Cheeseburger,Fast Food,3,12.25,C080,San Jose,35,3.8,Yes,Card,36.75
+1423,2025-02-05,10:25 AM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C002,San Jose,28,3.1,No,Card,31.5
+1424,2025-02-10,08:23 PM,Monday,BBQ Ribs,Fast Food,3,18.5,C062,San Antonio,51,3.8,Yes,Wallet,55.5
+1425,2025-04-14,07:46 PM,Monday,Chicken Wings,Fast Food,3,14.0,C030,San Antonio,36,3.5,No,Cash,42.0
+1426,2025-04-08,02:30 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,2,13.9,C002,San Diego,46,4.4,No,Card,27.8
+1427,2025-04-20,04:00 PM,Sunday,BBQ Ribs,Fast Food,3,18.5,C023,Los Angeles,50,3.0,No,Wallet,55.5
+1428,2025-06-28,06:49 PM,Saturday,Caesar Salad,Healthy,3,11.75,C007,San Diego,55,4.0,No,Wallet,35.25
+1429,2025-06-08,12:30 PM,Sunday,Mac and Cheese,Comfort Food,1,10.5,C013,Los Angeles,52,3.7,No,Card,10.5
+1430,2025-04-07,11:28 AM,Monday,Buffalo Chicken Wrap,Fast Food,1,13.9,C060,Phoenix,26,3.2,Yes,Card,13.9
+1431,2025-03-08,06:14 PM,Saturday,BBQ Ribs,Fast Food,2,18.5,C058,Los Angeles,30,4.3,No,Card,37.0
+1432,2025-06-07,03:07 PM,Saturday,BBQ Ribs,Fast Food,3,18.5,C064,Dallas,55,4.2,No,Cash,55.5
+1433,2025-01-08,03:25 PM,Wednesday,Buffalo Chicken Wrap,Fast Food,1,13.9,C088,Los Angeles,26,3.1,Yes,Wallet,13.9
+1434,2025-05-19,07:31 PM,Monday,Caesar Salad,Healthy,2,11.75,C081,Chicago,39,4.3,Yes,Card,23.5
+1435,2025-05-24,09:06 PM,Saturday,Grilled Chicken Sandwich,Fast Food,2,13.8,C026,Phoenix,39,3.7,No,Wallet,27.6
+1436,2025-06-01,01:20 PM,Sunday,BBQ Ribs,Fast Food,2,18.5,C085,Dallas,57,3.6,Yes,Wallet,37.0
+1437,2025-01-18,06:19 PM,Saturday,Grilled Chicken Sandwich,Fast Food,2,13.8,C044,Dallas,31,5.0,No,Cash,27.6
+1438,2025-06-03,01:13 PM,Tuesday,Cobb Salad,Healthy,2,11.0,C060,San Antonio,56,3.8,Yes,Wallet,22.0
+1439,2025-04-10,07:47 PM,Thursday,Cheeseburger,Fast Food,2,12.25,C075,Phoenix,49,3.8,Yes,Wallet,24.5
+1440,2025-05-26,02:52 PM,Monday,Mac and Cheese,Comfort Food,3,10.5,C045,Dallas,29,4.7,Yes,Wallet,31.5
+1441,2025-03-06,07:01 PM,Thursday,BBQ Ribs,Fast Food,2,18.5,C018,Houston,35,4.1,Yes,Cash,37.0
+1442,2025-02-10,02:36 PM,Monday,Chicken Wings,Fast Food,1,14.0,C093,San Diego,37,3.9,Yes,Wallet,14.0
+1443,2025-04-19,10:57 AM,Saturday,Cobb Salad,Healthy,3,11.0,C062,Dallas,54,3.5,Yes,Cash,33.0
+1444,2025-06-25,10:01 AM,Wednesday,Avocado Toast,Healthy,1,10.25,C067,Philadelphia,48,4.7,Yes,Card,10.25
+1445,2025-06-08,06:56 PM,Sunday,Avocado Toast,Healthy,2,10.25,C074,Houston,32,4.4,Yes,Card,20.5
+1446,2025-01-25,11:19 AM,Saturday,Cobb Salad,Healthy,2,11.0,C033,Chicago,49,3.9,Yes,Wallet,22.0
+1447,2025-05-27,01:58 PM,Tuesday,Buffalo Chicken Wrap,Fast Food,3,13.9,C043,Houston,27,4.0,No,Cash,41.7
+1448,2025-01-19,04:51 PM,Sunday,Caesar Salad,Healthy,3,11.75,C003,Phoenix,45,3.7,No,Card,35.25
+1449,2025-04-28,08:45 PM,Monday,Avocado Toast,Healthy,1,10.25,C002,Philadelphia,33,4.7,Yes,Wallet,10.25
+1450,2025-03-09,08:17 PM,Sunday,Grilled Chicken Sandwich,Fast Food,1,13.8,C029,Philadelphia,48,4.2,Yes,Wallet,13.8
+1451,2025-01-27,04:31 PM,Monday,Cheeseburger,Fast Food,1,12.25,C031,Chicago,37,3.9,No,Wallet,12.25
+1452,2025-04-27,08:59 PM,Sunday,Buffalo Chicken Wrap,Fast Food,3,13.9,C086,New York,51,4.0,Yes,Card,41.7
+1453,2025-04-30,06:32 PM,Wednesday,Avocado Toast,Healthy,3,10.25,C090,Chicago,40,4.5,Yes,Cash,30.75
+1454,2025-05-05,08:56 PM,Monday,Clam Chowder,Comfort Food,3,12.75,C089,Houston,31,4.9,Yes,Cash,38.25
+1455,2025-01-23,07:59 PM,Thursday,BBQ Ribs,Fast Food,2,18.5,C062,Philadelphia,26,4.1,Yes,Cash,37.0
+1456,2025-06-15,09:55 PM,Sunday,Grilled Chicken Sandwich,Fast Food,3,13.8,C064,Los Angeles,45,3.2,Yes,Wallet,41.4
+1457,2025-04-26,01:15 PM,Saturday,BBQ Ribs,Fast Food,1,18.5,C079,San Antonio,54,4.2,Yes,Card,18.5
+1458,2025-02-19,01:28 PM,Wednesday,Mac and Cheese,Comfort Food,3,10.5,C083,San Diego,43,4.9,Yes,Card,31.5
+1459,2025-06-15,11:01 AM,Sunday,Cheeseburger,Fast Food,2,12.25,C004,Houston,38,3.8,Yes,Cash,24.5
+1460,2025-05-12,05:38 PM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C094,New York,45,3.6,Yes,Card,41.4
+1461,2025-01-13,12:03 PM,Monday,Caesar Salad,Healthy,1,11.75,C037,Los Angeles,31,3.7,Yes,Wallet,11.75
+1462,2025-06-30,05:01 PM,Monday,Cheeseburger,Fast Food,1,12.25,C018,Philadelphia,48,4.2,No,Cash,12.25
+1463,2025-01-27,04:40 PM,Monday,Buffalo Chicken Wrap,Fast Food,2,13.9,C033,San Jose,56,4.7,Yes,Card,27.8
+1464,2025-03-13,04:44 PM,Thursday,Grilled Chicken Sandwich,Fast Food,3,13.8,C040,Houston,24,3.7,Yes,Card,41.4
+1465,2025-06-21,02:20 PM,Saturday,Cobb Salad,Healthy,1,11.0,C002,Philadelphia,46,3.1,No,Wallet,11.0
+1466,2025-06-18,09:31 PM,Wednesday,Cobb Salad,Healthy,1,11.0,C032,Dallas,22,3.9,No,Cash,11.0
+1467,2025-04-25,11:41 AM,Friday,Caesar Salad,Healthy,1,11.75,C034,Dallas,44,4.7,Yes,Wallet,11.75
+1468,2025-05-06,08:11 PM,Tuesday,Mac and Cheese,Comfort Food,2,10.5,C020,Chicago,45,3.5,No,Cash,21.0
+1469,2025-02-18,05:40 PM,Tuesday,Avocado Toast,Healthy,3,10.25,C007,Los Angeles,59,4.4,Yes,Wallet,30.75
+1470,2025-04-01,11:08 AM,Tuesday,Grilled Chicken Sandwich,Fast Food,1,13.8,C100,San Diego,28,3.4,Yes,Wallet,13.8
+1471,2025-01-03,03:58 PM,Friday,BBQ Ribs,Fast Food,1,18.5,C046,Philadelphia,33,4.2,Yes,Card,18.5
+1472,2025-02-03,11:19 AM,Monday,Grilled Chicken Sandwich,Fast Food,3,13.8,C041,Phoenix,35,4.0,Yes,Wallet,41.4
+1473,2025-04-23,06:21 PM,Wednesday,Clam Chowder,Comfort Food,3,12.75,C090,San Antonio,59,4.4,Yes,Cash,38.25
+1474,2025-04-26,08:44 PM,Saturday,Avocado Toast,Healthy,2,10.25,C031,San Diego,35,3.2,Yes,Wallet,20.5
+1475,2025-01-11,07:24 PM,Saturday,Avocado Toast,Healthy,2,10.25,C023,Philadelphia,38,3.4,No,Cash,20.5
+1476,2025-01-15,05:05 PM,Wednesday,BBQ Ribs,Fast Food,2,18.5,C084,San Antonio,34,4.0,Yes,Cash,37.0
+1477,2025-02-10,03:38 PM,Monday,Cobb Salad,Healthy,2,11.0,C055,San Antonio,54,4.8,Yes,Wallet,22.0
+1478,2025-05-19,10:21 AM,Monday,Avocado Toast,Healthy,2,10.25,C002,San Jose,56,4.6,Yes,Cash,20.5
+1479,2025-06-17,07:56 PM,Tuesday,Cheeseburger,Fast Food,1,12.25,C008,Phoenix,25,4.2,Yes,Wallet,12.25
+1480,2025-03-12,03:18 PM,Wednesday,Mac and Cheese,Comfort Food,2,10.5,C035,San Diego,60,4.1,Yes,Card,21.0
+1481,2025-06-02,12:27 PM,Monday,Avocado Toast,Healthy,3,10.25,C089,Houston,36,4.3,Yes,Card,30.75
+1482,2025-01-22,09:47 PM,Wednesday,Grilled Chicken Sandwich,Fast Food,1,13.8,C067,San Jose,27,3.2,No,Wallet,13.8
+1483,2025-05-16,06:48 PM,Friday,Clam Chowder,Comfort Food,3,12.75,C045,New York,48,3.1,Yes,Wallet,38.25
+1484,2025-03-27,10:58 AM,Thursday,Cheeseburger,Fast Food,1,12.25,C017,San Diego,52,4.7,Yes,Wallet,12.25
+1485,2025-05-02,08:56 PM,Friday,BBQ Ribs,Fast Food,2,18.5,C073,Phoenix,47,3.9,Yes,Cash,37.0
+1486,2025-06-03,08:01 PM,Tuesday,BBQ Ribs,Fast Food,1,18.5,C038,Houston,20,4.7,No,Card,18.5
+1487,2025-01-03,09:10 PM,Friday,BBQ Ribs,Fast Food,2,18.5,C036,San Antonio,23,5.0,Yes,Card,37.0
+1488,2025-02-26,02:29 PM,Wednesday,Clam Chowder,Comfort Food,3,12.75,C097,Chicago,34,3.6,Yes,Wallet,38.25
+1489,2025-02-20,09:38 PM,Thursday,Chicken Wings,Fast Food,2,14.0,C047,San Diego,55,4.7,Yes,Card,28.0
+1490,2025-01-06,06:55 PM,Monday,Chicken Wings,Fast Food,3,14.0,C098,Los Angeles,41,4.8,No,Wallet,42.0
+1491,2025-03-30,08:14 PM,Sunday,Chicken Wings,Fast Food,3,14.0,C013,San Jose,44,4.3,Yes,Wallet,42.0
+1492,2025-06-25,01:52 PM,Wednesday,Chicken Wings,Fast Food,3,14.0,C025,Los Angeles,23,4.2,Yes,Cash,42.0
+1493,2025-04-01,03:15 PM,Tuesday,Grilled Chicken Sandwich,Fast Food,2,13.8,C081,Philadelphia,36,4.1,Yes,Wallet,27.6
+1494,2025-02-06,06:54 PM,Thursday,Cheeseburger,Fast Food,1,12.25,C063,San Diego,56,4.7,Yes,Cash,12.25
+1495,2025-01-08,07:46 PM,Wednesday,Grilled Chicken Sandwich,Fast Food,2,13.8,C043,San Diego,35,4.2,Yes,Card,27.6
+1496,2025-04-01,06:10 PM,Tuesday,Clam Chowder,Comfort Food,2,12.75,C024,San Antonio,40,4.0,Yes,Card,25.5
+1497,2025-06-25,06:41 PM,Wednesday,Clam Chowder,Comfort Food,2,12.75,C049,Houston,33,4.2,No,Card,25.5
+1498,2025-05-06,09:13 PM,Tuesday,Clam Chowder,Comfort Food,3,12.75,C025,Houston,34,3.1,Yes,Cash,38.25
+1499,2025-01-19,01:28 PM,Sunday,Buffalo Chicken Wrap,Fast Food,3,13.9,C093,Phoenix,38,4.3,Yes,Card,41.7
